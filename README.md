@@ -1,18 +1,17 @@
 CHALLENGER MERCADO LIBRE
+
 Se presenta un Reporte General y detallado de todas las acciones llevadas a cabo para lograr los 
 objetivos, y de las herramientas empleadas, puede ubicarlo en: Reporte.ipynb, en el presente Repositorio.
 
 
 Primera Parte - SQL
-Objetivo
-A partir de la siguiente necesidad, se requiere diseñar un DER que responda al modelo del
+
+Objetivo: A partir de la siguiente necesidad, se requiere diseñar un DER que responda al modelo del
 negocio. En la Carpeta Parte1a_DER se tiene el archivo DER_Ventas.mwb, y ademas se presenta
 una imagen en la carpeta img llamado DER.jpg, con el diagrama propuesto.
 
-Luego, se debe responder mediante SQL diferentes preguntas.
-
-Para eso de generó el script DDL para la creación de cada una de las tablas representadas en
-el DER. Se encuentra en la carpeta Parte1b_DDL con el nombre “create_tables.sql”.
+Luego, se debe responder mediante SQL diferentes preguntas.Para eso de generó el script DDL para la creación de cada una de las 
+tablas representadas en el DER. Se encuentra en la carpeta Parte1b_DDL con el nombre “create_tables.sql”.
 
 Y para responder las Consultas, se generó el código SQL para responder cada una de las situaciones mencionadas
 anteriormente sobre el modelo diseñado. Se encuentra en la carpeta Parte1b_DDL con el nombre: “respuestas_negocio.sql”
